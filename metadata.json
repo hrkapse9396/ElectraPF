@@ -1,0 +1,8 @@
+{
+  "name": "ElectraPF - Bill Analyzer",
+  "description": "Calculate and understand your electricity bill's Power Factor using AI analysis. Identify lagging vs leading loads with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
